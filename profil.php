@@ -138,9 +138,8 @@ if (empty($nama) || empty($email) || empty($telepon) || empty($alamat)) {
             </a>
 
             <div class="hero-content">
-                <img src="original-43bd8f4a26ab87ef9d81ad3848a46b0e.webp" alt="Hero" class="hero-image">
+
                 <div class="hero-text">
-                    <h2>Your Profile<br>Successfully Created</h2>
                 </div>
             </div>
         </div>
